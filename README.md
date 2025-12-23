@@ -1,2 +1,2 @@
-# OEE
+# OEE Monitor
 Monitor de indicador para medição de eficiência global de equipamento/máquina.
